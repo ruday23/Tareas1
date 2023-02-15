@@ -1,0 +1,68 @@
+body{margin: 0;}
+.blackbox  {background-color: black;}
+.blackbox{height: 600px;}
+.blackbox{position: relative;}
+
+.whiteletters {color: white;}
+.whiteletters {font-family: Arial, Helvetica, sans-serif;}
+.whiteletters{font-size: 50px;}
+.whiteletters{margin:0%;}
+.whiteletters{margin-left: 100px;}
+
+
+
+span.dot {font-size: 50px;}
+span.dot {color:rgb(51, 208, 51);}
+
+p.whiteletters2 {color: white;}
+p.whiteletters2 {font-size: 20px;}
+p.whiteletters2{ margin-top: 5px;}
+p.whiteletters2{margin-left: 100px;}
+
+span.search {text-decoration:underline ;}
+span.right {position: absolute;}
+span.right {top: ;}
+
+aside.left {color: white;}
+aside.left {margin-top: 350px ;}
+aside.left {display: block;}
+aside.left {margin-left: 100px;}
+
+span.right{ margin-left: 600px;}
+span.right {margin-top: 350px;}
+span.right {position:absolute  ;}
+
+img.schw {margin: 100px 100px 244px 50px;}
+
+article.die {font-size: large;}
+article.die {margin-left: 800px;}
+article.die {margin-bottom: 10px;}
+article.die {margin-top: -278px;}
+
+nav.first ul li {list-style-type: none;}
+nav.first {float: right;}
+nav.first    {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+a {text-decoration: none;}
+nav.first {margin-top: -37px;}
+a {color: black;}
+
+.blackletters {font-size: 80px ;}
+.blackletters {font-family: Arial, Helvetica, sans-serif;}
+.blackletters {margin-left: 50px;}
+
+
+.ho {color: rgb(225, 150, 12);}
+nav.second {float: right;}
+nav.second {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.orangeletters { color: orange;}
+.orangeletters {font-size: 100px;}
+.orangeletters {margin-top: 200px;}
+.orangeletters {margin-left: 15px;}
+
+.last  {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.last {font-size: 45px;}
+
+.cafe   {margin-left: 5px;}
+
